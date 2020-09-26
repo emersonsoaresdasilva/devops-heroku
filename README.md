@@ -11,3 +11,4 @@
 * heroku apps:create 'nome do aplicativo'
 * git push heroku master
 * heroku ps:scale web=1
+* heroku open
